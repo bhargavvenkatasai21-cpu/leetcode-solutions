@@ -7,6 +7,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -33,4 +34,12 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
