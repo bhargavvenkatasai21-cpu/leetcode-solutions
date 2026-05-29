@@ -22,6 +22,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -52,6 +53,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +64,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0165-compare-version-numbers) |
