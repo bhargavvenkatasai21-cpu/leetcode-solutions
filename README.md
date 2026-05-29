@@ -46,6 +46,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -79,6 +80,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0014-longest-common-prefix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Counting
