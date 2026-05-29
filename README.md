@@ -39,6 +39,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0875-koko-eating-bananas](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -149,8 +150,18 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
