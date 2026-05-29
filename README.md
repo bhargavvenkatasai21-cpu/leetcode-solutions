@@ -13,6 +13,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0001-two-sum](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -51,6 +52,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0165-compare-version-numbers) |
