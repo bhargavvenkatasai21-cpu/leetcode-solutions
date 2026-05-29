@@ -11,6 +11,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -75,6 +76,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -87,4 +89,8 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
