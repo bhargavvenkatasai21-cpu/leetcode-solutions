@@ -11,6 +11,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -22,6 +23,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -74,4 +76,8 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
