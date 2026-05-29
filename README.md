@@ -43,6 +43,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0485-max-consecutive-ones](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -188,4 +189,8 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
