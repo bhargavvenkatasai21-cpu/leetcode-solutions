@@ -17,6 +17,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -51,6 +52,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0125-valid-palindrome](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -74,6 +76,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
