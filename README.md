@@ -51,6 +51,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -195,4 +196,5 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
