@@ -26,6 +26,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0240-search-a-2d-matrix-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -87,6 +88,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
