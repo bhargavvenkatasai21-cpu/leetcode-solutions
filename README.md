@@ -20,6 +20,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -80,6 +81,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -166,6 +168,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -177,4 +180,12 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
