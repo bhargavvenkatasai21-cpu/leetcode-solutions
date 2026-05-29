@@ -10,6 +10,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0066-plus-one](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
