@@ -15,6 +15,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
@@ -34,11 +35,13 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
