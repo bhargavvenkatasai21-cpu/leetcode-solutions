@@ -23,6 +23,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0066-plus-one](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -76,6 +78,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
