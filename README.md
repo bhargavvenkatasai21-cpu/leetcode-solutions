@@ -24,6 +24,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -65,4 +66,9 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
