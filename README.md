@@ -27,6 +27,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -44,6 +45,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0001-two-sum](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +124,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
@@ -136,5 +140,6 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
