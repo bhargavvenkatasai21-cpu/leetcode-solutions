@@ -13,6 +13,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
