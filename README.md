@@ -11,6 +11,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0066-plus-one](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
+| [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -180,6 +181,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0053-maximum-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -201,4 +203,12 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | ------- |
 | [0724-find-pivot-index](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
