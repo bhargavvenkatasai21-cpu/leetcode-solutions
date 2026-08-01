@@ -14,6 +14,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2769-find-the-maximum-achievable-number](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
