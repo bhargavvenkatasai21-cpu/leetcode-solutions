@@ -11,6 +11,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0066-plus-one](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -52,6 +53,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0704-binary-search](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -188,6 +190,7 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 | [0042-trapping-rain-water](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Queue
@@ -218,5 +221,6 @@ Java solutions for LeetCode problems focused on Data Structures, Algorithms, and
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bhargavvenkatasai21-cpu/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
